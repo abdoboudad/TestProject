@@ -1,0 +1,27 @@
+
+#table{
+    margin-top: 400px;
+}
+#btn-login{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding:13px 80px ;
+}
+#sign{
+    display: flex;
+    margin: auto;
+}
+#card,#card2{
+    box-shadow: 2px 4px #ABB2B9;
+}
+#card1{
+    box-shadow: 3px 6px #949494;
+}
+#email,#pass{
+    width: 80%;
+    outline: none;
+    display: flex;
+    margin: auto;
+    padding: 10px;
+}
